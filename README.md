@@ -1,4 +1,0 @@
-msidb
-=====
-
-MSI DB Interface
